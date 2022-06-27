@@ -23,7 +23,7 @@ main {
     justify-content: space-between;
     min-height: 545px;
     width: 920px;
-    background-image: url(../images/bg-pattern-desktop.svg);
+    background-image: url(./images/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-position: 1260% 65%;
 }
